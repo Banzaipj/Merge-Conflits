@@ -1,4 +1,5 @@
 # Merge-Conflits
+README.md
 Critères de validation
 Le lien pastebin pointe vers une page avec le contenu du Terminal
 La première utilisation de git pull provoque un conflit.
